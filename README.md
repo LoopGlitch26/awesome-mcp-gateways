@@ -24,6 +24,7 @@ A list of awesome MCP Gateway Products. [Open a pull request](https://github.com
 - [Nexus](https://github.com/Nexus-Router/nexus) - Plug in all your MCP servers and LLMs.
 - [Obot](https://github.com/obot-platform/obot) - Open-source MCP Gateway and AI Platform.
 - [Pomerium](https://github.com/pomerium/pomerium) - Open-source MCP gateway that secures access to your MCP servers with authentication and access policies, including per-tool controls.
+- [Tracekit MCP gateway](https://github.com/Cygnux-Labs/Tracekit/wiki/MCP-Gateway) - Open-source MCP gateway (experimental) that proxies stdio and Streamable HTTP MCP servers, keeps their credentials out of the agent, has a policy decide each tool call before it runs and signs every call and decision into a hash-chained record that verifies offline. Part of Tracekit.
 - [Unla](https://github.com/AmoyLab/Unla) - MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes.
 
 ## Commercial MCP Gateways
